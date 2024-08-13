@@ -4,8 +4,8 @@
 - 🌱 Currently Learning C# (Unity), C++, Java, SQL 🌱
 - 🔭 Currently Working on ongoing Unity Projects & Website Portfolio 🔭
 - 👯 Currently Not in Collabaoration 👯
-- ⚡ Fun Fact: Enjoy Basketball ⚡
-- ⚡ Fun Fact: Frequent Gym Goer ⚡
+- 🏀 Fun Fact: Enjoys Basketball 🏀
+- 🏃 Fun Fact: Frequent Gym Goer 🏃
 - 📫 Email: smahomade@gmail.com 📫
 -  💻 <a href="https://smahomade.github.io">Portfolio</a> 💻 (Currently Updating Portfolio...) 
 
