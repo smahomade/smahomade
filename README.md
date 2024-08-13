@@ -7,7 +7,7 @@
 - ⚡ Fun Fact: Enjoy Basketball ⚡
 - ⚡ Fun Fact: Frequent Gym Goer ⚡
 - 📫 Email: smahomade@gmail.com 📫
--  💻 <a href="https://smahomade.github.io">Portfolio</a>  (Updating Portfolio) 💻
+-  💻 <a href="https://smahomade.github.io">Portfolio</a> 💻 (Currently Updating Portfolio...) 
 
 
 
