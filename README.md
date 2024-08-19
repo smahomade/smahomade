@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Safee (@smahomade) 👋
-- 👨‍🎓 Achieved a BSC Hons in Comp Sci 2:1 👨‍🎓
+- 👨‍🎓 Achieved a BSC Hons in Comp Sci (2:1) in City University of London 👨‍🎓
 - :scissors: Working in a Salon (Family Business) ATM :scissors:
 - 🌱 Currently Focusing on LeetCode🌱
 - 🔭 Currently Working Unity Projects or Revisiting Cloud Computing Project🔭
