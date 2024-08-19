@@ -1,13 +1,13 @@
 - 👋 Hi, my name is Safee (@smahomade) 👋
 - 👨‍🎓 Achieved a BSC Hons in Comp Sci 2:1 👨‍🎓
 - :scissors: Working in a Salon (Family Business) ATM :scissors:
-- 🌱 Currently Learning C# (Unity), C++, Java, SQL 🌱
-- 🔭 Currently Working on ongoing Unity Projects & Website Portfolio 🔭
+- 🌱 Currently Focusing on LeetCode🌱
+- 🔭 Currently Working Unity Projects or Revisiting Cloud Computing Project🔭
 - 👯 Currently Not in Collabaoration 👯
 - 🏀 Fun Fact: Enjoys Basketball 🏀
 - 🏃 Fun Fact: Frequent Gym Goer 🏃
 - 📫 Email: smahomade@gmail.com 📫
--  💻 <a href="https://smahomade.github.io">Portfolio</a> 💻 (Currently Updating Portfolio...) 
+-  💻 <a href="https://smahomade.github.io">Portfolio</a> 💻
 
 
 
