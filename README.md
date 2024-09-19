@@ -2,7 +2,7 @@
 - 👨‍🎓 Achieved a BSC Hons in Comp Sci (2:1) in City University of London 👨‍🎓
 - :scissors: Working in a Salon (Family Business) ATM :scissors:
 - 🌱 Currently Focusing on LeetCode🌱
-- 🔭 Currently Working Unity Projects and Revisiting Cloud Computing Project🔭
+- 🔭 Currently Working on Top One Salon Booking Application using React🔭
 - 👯 Currently Not in Collabaoration 👯
 - 🏀 Fun Fact: Enjoys Basketball 🏀
 - 🏃 Fun Fact: Frequent Gym Goer 🏃
