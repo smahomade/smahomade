@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Safee (@smahomade) 👋
 - 👨‍🎓 Achieved a BSC Hons in Comp Sci (2:1) in City University of London 👨‍🎓
-- :scissors: Working in a Salon (Family Business) ATM :scissors:
+- :scissors: Working in a Salon (Family Business) Creating an Full Stack Application :scissors:
 - 🌱 Currently Focusing on LeetCode🌱
 - 🔭 Currently Working on Top One Salon Booking Application using React Native & Supabase🔭
 - 👯 Currently Not in Collabaoration 👯
